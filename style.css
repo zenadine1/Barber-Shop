@@ -1,4 +1,4 @@
-*{
+head{
     margin: 0;
     padding: 0;
     font-family: 'poppins',sans-serif;
@@ -22,7 +22,7 @@
  }
  .banner-text h1{
      font-size: 130px;
-     font-weight: 'kausham Script',cursive;
+     font-weight: 'kausham Script' cursive;
  }
  .banner-text p{
      font-size: 20px;
